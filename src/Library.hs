@@ -106,7 +106,27 @@ puedeLLegarAMatarloConAlgunElemento unPersonaje enemigo = any ((==0). danioQuePr
 ataqueDeUn :: Personaje -> [Personaje -> Personaje]
 ataqueDeUn personaje = map ataque $elementos personaje
 
+-- 3. Definir los siguientes personajes y elementos:
 
+-- a. Definir concentracionde modo que se pueda obtener un elemento cuyo efecto
+-- defensivo sea aplicar meditar tantas veces como el nivel de concentración indicado y
+-- cuyo tipo sea "Magia".
+
+-- concentracion cantidadDeVeces = 
+
+-- b. Definir esbirrosMalvados que recibe una cantidad y retorna una lista con esa cantidad
+-- de esbirros (que son elementos de tipo “Maldad” cuyo efecto ofensivo es causar un
+-- punto de daño)
+
+data Esbirro = Elemento String Number
+
+
+
+
+-- agregarALista 0 [] = [] 
+-- agregarALista unElementonVeces lista 
+--     | unElementonVeces == 1 = [unElementonVeces]
+--     | otherwise = unElementonVeces: agregarALista (unElementonVeces) lista 
 
 -- VARIABLES AUXILIARES
 
