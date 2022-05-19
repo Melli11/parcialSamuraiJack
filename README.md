@@ -2,6 +2,9 @@
 
 ## Samurai Jack
 
+![samu](https://user-images.githubusercontent.com/54424951/169210272-b633cee7-4088-4aa0-bb52-c7f642e2d89e.jpg)
+
+
 Aku:Hace mucho tiempo, en una tierra distante, yo,Aku, el Amo de la oscuridad, desencadené un mal indescriptible. Pero un tonto guerrero samurái que blande una espada mágica, decidió oponerse a mí. Antes del último golpe, abrí un portal en el tiempo y lo envié al futuro, donde mi maldad es la ley. Ahora, el tonto intenta volver al pasado y alejarse del futuro que soy yo... ¡Aku!
 
 Un grupo de fans de Samurai Jack, entusiasmados con las recientes noticias de la continuación de la serie, nos ha encargado un sistema para simular que podría ocurrir en las nuevas temporadas de la serie de dibujos animados teniendo en cuenta todo lo que sabemos de las primeras temporadas. Decidimos modelar la información de la siguiente forma:
